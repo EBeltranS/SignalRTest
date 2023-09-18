@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "Qkxw/0I8m8DmqZCXcpO0+8UPj7VAf5RXe6I9Xpq79uC1dJPkciJq8YYSgk2sn7zyhyt/ePFAb5oLoT0yUiyI4g==",
+  "success": true,
+  "projectFilePath": "C:\\Git\\SignalR_Demo\\SignalR_Demo\\WebServices\\WebServices.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Emmanuel Beltran\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\7.0.11\\microsoft.aspnetcore.connections.abstractions.7.0.11.nupkg.sha512",
+    "C:\\Users\\Emmanuel Beltran\\.nuget\\packages\\microsoft.aspnetcore.signalr.common\\7.0.11\\microsoft.aspnetcore.signalr.common.7.0.11.nupkg.sha512",
+    "C:\\Users\\Emmanuel Beltran\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Emmanuel Beltran\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Emmanuel Beltran\\.nuget\\packages\\microsoft.extensions.features\\7.0.11\\microsoft.extensions.features.7.0.11.nupkg.sha512",
+    "C:\\Users\\Emmanuel Beltran\\.nuget\\packages\\microsoft.extensions.options\\7.0.1\\microsoft.extensions.options.7.0.1.nupkg.sha512",
+    "C:\\Users\\Emmanuel Beltran\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\Emmanuel Beltran\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Emmanuel Beltran\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\Emmanuel Beltran\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\Emmanuel Beltran\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\Emmanuel Beltran\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
+    "C:\\Users\\Emmanuel Beltran\\.nuget\\packages\\system.io.pipelines\\7.0.0\\system.io.pipelines.7.0.0.nupkg.sha512",
+    "C:\\Users\\Emmanuel Beltran\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Emmanuel Beltran\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\Emmanuel Beltran\\.nuget\\packages\\system.text.json\\7.0.3\\system.text.json.7.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
