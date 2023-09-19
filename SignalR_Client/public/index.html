@@ -39,5 +39,19 @@
       To begin the development, run `npm start` or `yarn start`.
       To create a production bundle, use `npm run build` or `yarn build`.
     -->
+    <script src = "https://cdn.jsdelivr.net/npm/@microsoft/signalr@3.1.8/dist/browser/signalr.min.js"></script>
+    <script src = "https://unpkg.com/rxjs@7.8.1/dist/bundles/rxjs.umd.min.js"></script>
+    <script type = "text/javascript">
+      const connection = new signalR.HubConnectionBuilder()
+        .withUrl("https://localhost:7130/myhub")
+        .build();
+
+        connection.start()
+          .then(() => {
+              console.log("Conexion exitosa")
+            })
+            .catch((error)=>console.error(error.message));
+    </script>
+
   </body>
 </html>

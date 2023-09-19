@@ -1,0 +1,14 @@
+C:\Git\SignalR_Demo\SignalR_Demo\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Git\SignalR_Demo\SignalR_Demo\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+C:\Git\SignalR_Demo\SignalR_Demo\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Git\SignalR_Demo\SignalR_Demo\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Git\SignalR_Demo\SignalR_Demo\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Git\SignalR_Demo\SignalR_Demo\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\SignalR_Demo\SignalR_Demo\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Git\SignalR_Demo\SignalR_Demo\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Git\SignalR_Demo\SignalR_Demo\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Git\SignalR_Demo\SignalR_Demo\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Git\SignalR_Demo\SignalR_Demo\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Git\SignalR_Demo\SignalR_Demo\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Git\SignalR_Demo\SignalR_Demo\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+C:\Git\SignalR_Demo\SignalR_Demo\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
